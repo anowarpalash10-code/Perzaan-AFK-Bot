@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": ",saymaXarabi-2.0",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SkylumeMc.aternos.me",
+    "ip": "skylumemc.qzz.io",
     "port": 48250,
     "version": "1.21.1"
   },
